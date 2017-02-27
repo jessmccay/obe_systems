@@ -13,10 +13,13 @@ body {
 
 body {
     padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
-
 }
-h1, h2{
+h1, h2 {
   color: rgb(0,107,255);
+}
+
+p {
+  color: rgb(0,34,58);
 }
 
 .img-portfolio {
