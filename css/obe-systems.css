@@ -98,3 +98,8 @@ footer {
         height: 70%;
     }
 }
+
+.icon {
+  filter: invert(100%);
+  margin-top: 15px;
+}
