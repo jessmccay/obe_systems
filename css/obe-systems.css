@@ -11,12 +11,19 @@ html, body {
     font-family: 'Playfair-Display', serif !important;
 }
 
-#navbar-brand {
+.navbar-brand {
   font-size: 23px !important;
 }
 
 body {
     padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+#obe {
+  background-color: rgb(0,107,255) !important;
+  color: white !important;
+  margin-right: 2px;
+  padding: 2px;
 }
 
  p {
