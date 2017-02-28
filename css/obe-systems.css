@@ -100,6 +100,9 @@ footer {
 }
 
 .icon {
-  filter: invert(100%);
   margin-top: 15px;
+  color: rgb(0,107,255);
+  height: 25px;
+  width: auto;
+  background-color: inherit;
 }
