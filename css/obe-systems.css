@@ -6,14 +6,24 @@
 
 /* Global Styles */
 
-html,
-body {
+html, body {
     height: 100%;
+    font-family: 'Playfair-Display', serif !important;
+}
+
+#navbar-brand {
+  font-size: 23px !important;
 }
 
 body {
     padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
+
+ p {
+  font-size: 16px !important;
+  line-height: 1.6;
+}
+
 h1, h2 {
   color: rgb(0,107,255);
 }
