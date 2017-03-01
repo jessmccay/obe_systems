@@ -10,7 +10,9 @@ html, body {
     height: 100%;
     font-family: 'Playfair-Display', serif !important;
 }
-
+span{
+  font-weight: bold;
+}
 .main-header {
 }
 
@@ -95,25 +97,6 @@ header.carousel .fill {
     background-size: cover;
 }
 
-/* 404 Page Styles */
-
-.error-404 {
-    font-size: 100px;
-}
-
-/* Pricing Page Styles */
-
-.price {
-    display: block;
-    font-size: 50px;
-    line-height: 50px;
-}
-
-.price sup {
-    top: -20px;
-    left: 2px;
-    font-size: 20px;
-}
 
 .period {
     display: block;
