@@ -103,6 +103,9 @@ header.carousel .fill {
     font-style: italic;
 }
 
+#pubs, #pats {
+  margin-top: 90px;
+}
 /* Footer Styles */
 
 footer {
