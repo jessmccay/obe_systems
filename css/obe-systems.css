@@ -109,9 +109,16 @@ h1, h2 {
     padding-left: 50px;
   }
 
+
+#pubs {
+  margin-top: 90px;
+}
+/* Footer Styles */
+
   .icon-link {
     font-size: 8px;
   }
+
 
 
 /* Footer Styles */
