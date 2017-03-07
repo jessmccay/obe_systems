@@ -26,6 +26,12 @@
               interval: 3000
           });
           $('.carousel').carousel('cycle');
+
+          $(`.carousel`).on(`mouseenter`,function() {
+          $(this).carousel('cycle');
+          }).on(`mouseleave`, function() {
+          $(this).carousel('cycle');
+          })
       });
     </script>
     <!-- END CAROUSEL SLIDER -->
