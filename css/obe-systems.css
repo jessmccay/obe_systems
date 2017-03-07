@@ -101,23 +101,21 @@ h1, h2 {
       font-style: italic;
   }
 
+/* Icons and Links in Navbar */
   .icon {
-    color: rgb(0,107,255);
-    height: 25px;
-    width: auto;
-    background-color: inherit;
-    padding-left: 50px;
+    height: 35px;
+    padding-left: 10px;
   }
 
+  .nav li a {
+    font-size: 16px;
+  }
 
 #pubs {
   margin-top: 90px;
 }
 /* Footer Styles */
 
-  .icon-link {
-    font-size: 8px;
-  }
 
 
 
