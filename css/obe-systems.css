@@ -108,6 +108,19 @@ h1, h2 {
     background-color: inherit;
     padding-left: 50px;
   }
+  .membership {
+    font-weight: bold;
+    margin-left: 30px;
+    padding-right: 10px;
+  }
+  .member {
+    border-color: rgba(230, 230, 230, 0.7);
+    border-style: inset;
+    border-width: thin;
+  }
+  /*.pformember {
+    margin-left: 30px;
+  }*/
 
 
 #pubs {
