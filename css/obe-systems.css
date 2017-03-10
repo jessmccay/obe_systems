@@ -27,15 +27,34 @@ p {
 }
 
 /*OBE Systmems Logo customization starts */
-.navbar-brand {
-  font-size: 30px;
-  margin-top: 3px;
-}
+  .navbar-brand {
+    font-size: 30px;
+    margin-top: 3px;
+  }
+  .navbar-brand:hover {
+      opacity: 0.7;
+  }
+
+
+  #nav-obe {
+    background-color: rgb(0,107,255);
+    color: white;
+    padding: 2px;
+    margin-right: 2px;
+  }
+
+  #nav-sys {
+    color: rgb(0,107,255);
+  }
+
+/*OBE Systmems Logo customization ends */
 
 /*image for patents and publications page*/
-.pap-img {
-  max-width: 100px;
-}
+  .pap-img {
+    max-width: 100px;
+    float: left;
+  }
+
 
  /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 body {
