@@ -124,10 +124,11 @@ header.carousel .fill {
 }
 
 .member {
-  border-color: rgba(230, 230, 230, 0.7);
-  border-style: inset;
-  border-width: thin;
-  padding-right: 120px;
+  border:1px solid #ddd;
+  /*border-color: rgba(230, 230, 230, 0.7);
+  border-style: solid;
+  border-width: thin;*/
+  /*padding-right: 120px;*/
 }
 
 .nav li a {
