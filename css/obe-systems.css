@@ -17,6 +17,10 @@ p {
  line-height: 1.6;
  color: rgb(0,34,58);
 }
+.patents {
+  margin-left: 30px !important;
+
+}
 
 #banner {
   top: 0;
